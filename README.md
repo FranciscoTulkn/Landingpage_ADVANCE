@@ -11,8 +11,10 @@ Este es un proyecto simple pero bien estructurado, creado únicamente con **HTML
 
 ## 📸 Vista previa
 
-![Captura del sitio](https://github.com/FranciscoTulkn/Landingpage_ADVANCE/assets/tu-captura.png)  
-> *Ejemplo visual de cómo luce la landing.*
+
+![Captura del sitio]
+![image](https://github.com/user-attachments/assets/77a9f369-ef7d-4565-8fc8-c3fef8124823)
+
 
 ## ✨ Características principales
 
@@ -24,8 +26,9 @@ Este es un proyecto simple pero bien estructurado, creado únicamente con **HTML
 ## 📂 Estructura del proyecto
 
 Landingpage_ADVANCE/
-├── index.html
-└── styles.css
+
+* index.html
+* styles.css
 
 
 ## 🧪 Cómo ver el proyecto
@@ -35,7 +38,7 @@ Landingpage_ADVANCE/
    git clone https://github.com/FranciscoTulkn/Landingpage_ADVANCE.git
 Abre el archivo index.html directamente en tu navegador.
 
-📈 En desarrollo
+### 📈 En desarrollo
 Este proyecto puede ser una base para futuras mejoras como:
 
 Agregar animaciones con JavaScript.
@@ -51,10 +54,3 @@ Desarrollado por Francisco Tulcan
 
 
 ¡Gracias por visitar! Si te fue útil, considera darle ⭐️ al repositorio.
-
----
-
-### Recomendación extra
-Si puedes subir una imagen de vista previa de tu landing page, agrégala al `README.md` y sustituye `tu-captura.png` por el nombre del archivo real. Si necesitas ayuda con eso, te explico cómo hacerlo.
-
-¿Quieres que también te ayude a subir la imagen o hacer una animación GIF de demostración?
