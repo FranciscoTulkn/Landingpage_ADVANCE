@@ -11,8 +11,6 @@ Este es un proyecto simple pero bien estructurado, creado únicamente con **HTML
 
 ## 📸 Vista previa
 
-
-![Captura del sitio]
 ![image](https://github.com/user-attachments/assets/77a9f369-ef7d-4565-8fc8-c3fef8124823)
 
 
@@ -41,17 +39,14 @@ Abre el archivo index.html directamente en tu navegador.
 ### 📈 En desarrollo
 Este proyecto puede ser una base para futuras mejoras como:
 
-Agregar animaciones con JavaScript.
-
-Integrar formularios de contacto.
-
-Añadir efectos al hacer scroll o secciones interactivas.
+* Agregar animaciones con JavaScript.
+* Integrar formularios de contacto.
+* Añadir efectos al hacer scroll o secciones interactivas.
 
 🧑‍💻 Autor
 Desarrollado por Francisco Tulcan
-📫 franciscotulcan.dev
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
-🔗 [LinkedIn](https://github.com/FranciscoTulkn))
+📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
+🔗 [Github](https://github.com/FranciscoTulkn))
 
 ¡Gracias por visitar! Si te fue útil, considera darle ⭐️ al repositorio.
