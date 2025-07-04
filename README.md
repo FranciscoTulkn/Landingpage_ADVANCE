@@ -47,6 +47,9 @@ Este proyecto puede ser una base para futuras mejoras como:
 Desarrollado por Francisco Tulcan
 
 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
-🔗 [![Github](https://github.com/FranciscoTulkn))
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&style=flat-square)](https://github.com/FranciscoTulkn)
+
+
+ ### Desplegado en NETLIFY: landing-page-advance.netlify.app 
 
 ¡Gracias por visitar! Si te fue útil, considera darle ⭐️ al repositorio.
