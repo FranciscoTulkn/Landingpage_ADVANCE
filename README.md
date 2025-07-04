@@ -50,7 +50,8 @@ Añadir efectos al hacer scroll o secciones interactivas.
 🧑‍💻 Autor
 Desarrollado por Francisco Tulcan
 📫 franciscotulcan.dev
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
+🔗 [LinkedIn](https://github.com/FranciscoTulkn))
 
 ¡Gracias por visitar! Si te fue útil, considera darle ⭐️ al repositorio.
