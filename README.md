@@ -47,6 +47,6 @@ Este proyecto puede ser una base para futuras mejoras como:
 Desarrollado por Francisco Tulcan
 
 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
-🔗 [Github](https://github.com/FranciscoTulkn))
+🔗 [![Github](https://github.com/FranciscoTulkn))
 
 ¡Gracias por visitar! Si te fue útil, considera darle ⭐️ al repositorio.
