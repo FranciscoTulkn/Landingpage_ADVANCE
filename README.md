@@ -52,7 +52,7 @@ Desarrollado por Francisco Javier Tulcán Rodríguez
 
  ## Desplegado en NETLIFY
  
- 🌐 [Ver Landing Page en línea](https://[landing-page-advance.netlify.app](https://landing-page-advance.netlify.app/))
+ 🌐 [Ver Landing Page en línea](https://landing-page-advance.netlify.app/)
 
 
  
