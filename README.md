@@ -43,8 +43,8 @@ Este proyecto puede ser una base para futuras mejoras como:
 * Integrar formularios de contacto.
 * Añadir efectos al hacer scroll o secciones interactivas.
 
-🧑‍💻 Autor
-Desarrollado por Francisco Tulcan
+##🧑‍💻 Autor
+Desarrollado por Francisco Javier Tulcán Rodríguez
 
 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/franciscotulkn-lib-dev)
 🔗 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&style=flat-square)](https://github.com/FranciscoTulkn)
@@ -52,6 +52,9 @@ Desarrollado por Francisco Tulcan
 
  ## Desplegado en NETLIFY
  
-   landing-page-advance.netlify.app 
+ 🌐 [Ver Landing Page en línea](https://landing-page-advance.netlify.app)
+
+
+ 
 
 ¡Gracias por visitar! Si te fue útil, considera darle ⭐️ al repositorio.
